@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\USER\source\repos\OpenCV_Project\OpenCV_Project\main.cpp(18,21): warning C4129: 'c': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  OpenCV_Project.vcxproj -> C:\Users\USER\source\repos\OpenCV_Project\x64\Debug\OpenCV_Project.exe
